@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T12:51:07.403Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vNbMefxIQMQ73gprNZmd" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T12:59:31.031Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ksFKXTjXhI9yQHE0uYIX" version="22.1.16" type="github" pages="2">
   <diagram name="Server-Arch" id="f_ubU6b-C9NsZ_72Fe37">
-    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PlugJkCY-pkuOAztnRj7-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;index.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Webpack&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="58" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;bundle.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="97" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlugJkCY-pkuOAztnRj7-2" target="PlugJkCY-pkuOAztnRj7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <mxPoint x="330" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PlugJkCY-pkuOAztnRj7-1" target="PlugJkCY-pkuOAztnRj7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <mxPoint x="150" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="40" />
+              <mxPoint x="150" y="70" />
+              <mxPoint x="150" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PlugJkCY-pkuOAztnRj7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="127.71000000000001" as="sourcePoint" />
+            <mxPoint x="330" y="127.71000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlugJkCY-pkuOAztnRj7-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PlugJkCY-pkuOAztnRj7-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="127.71000000000001" as="sourcePoint" />
+            <mxPoint x="490" y="127.71000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
