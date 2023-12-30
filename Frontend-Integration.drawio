@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T18:31:58.607Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="08tI8hvf0v8-5hGNDzZ4" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T18:41:24.089Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TFcQLLCI8gREQMqn6VfK" version="22.1.16" type="github" pages="2">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,35 +261,35 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Webpack " id="f_ubU6b-C9NsZ_72Fe37">
-    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PlugJkCY-pkuOAztnRj7-26" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="91" y="25" width="651" height="275" as="geometry" />
+        <mxCell id="PlugJkCY-pkuOAztnRj7-26" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="17" y="25" width="651" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry y="6" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry y="96" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dependency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry y="186" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;index.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;index.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="170" y="86" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Webpack&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Webpack&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="310" y="54" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-2" target="PlugJkCY-pkuOAztnRj7-4" edge="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-2" target="PlugJkCY-pkuOAztnRj7-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="76" as="sourcePoint" />
             <mxPoint x="320" y="26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-1" target="PlugJkCY-pkuOAztnRj7-3" edge="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-1" target="PlugJkCY-pkuOAztnRj7-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="76" as="sourcePoint" />
             <mxPoint x="140" y="216" as="targetPoint" />
@@ -300,41 +300,72 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" target="PlugJkCY-pkuOAztnRj7-5" edge="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" target="PlugJkCY-pkuOAztnRj7-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="123.71000000000001" as="sourcePoint" />
             <mxPoint x="320" y="123.71000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-12" value="Combines many JS files into one single file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-12" value="Combines many JS files into one single file" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="215" y="204" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="471" width="180" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" target="PlugJkCY-pkuOAztnRj7-24" edge="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" target="PlugJkCY-pkuOAztnRj7-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431" y="123" as="sourcePoint" />
             <mxPoint x="470.01" y="123.14999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.013;exitY=0.311;exitDx=0;exitDy=0;exitPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-20" target="PlugJkCY-pkuOAztnRj7-20" edge="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.013;exitY=0.311;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" source="PlugJkCY-pkuOAztnRj7-20" target="PlugJkCY-pkuOAztnRj7-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="451" y="84" as="sourcePoint" />
             <mxPoint x="501" y="34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Webpack Dev Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Webpack Dev Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="491" y="13" width="140" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-24" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-24" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="511" y="96" width="100" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PlugJkCY-pkuOAztnRj7-25" value="Makes output easily&lt;br&gt;&amp;nbsp;available to the browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
+        <mxCell id="PlugJkCY-pkuOAztnRj7-25" value="Makes output easily&lt;br&gt;&amp;nbsp;available to the browser" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="479" y="235" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33EV09qo5TnwpSvwFXFL-1" value="Note: bundle.js or main.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="46" y="318" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="10" width="220" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-4" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;strokeColor=default;verticalAlign=top;fontFamily=Helvetica;fillColor=default;" vertex="1" parent="33EV09qo5TnwpSvwFXFL-3">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-5" value="https://www.my-app.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;strokeColor=default;verticalAlign=top;fontFamily=Helvetica;fillColor=default;" vertex="1" parent="33EV09qo5TnwpSvwFXFL-3">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-6" value="HTML Document" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="33EV09qo5TnwpSvwFXFL-3">
+          <mxGeometry x="25" y="150" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-7" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.001;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="33EV09qo5TnwpSvwFXFL-3" source="33EV09qo5TnwpSvwFXFL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25.194999999999936" y="172.76" as="sourcePoint" />
+            <mxPoint x="220.19499999999994" y="170.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-8" value="&amp;lt;script src=&quot;main.js&amp;gt;&amp;lt;/script&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="33EV09qo5TnwpSvwFXFL-3">
+          <mxGeometry x="40" y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PlugJkCY-pkuOAztnRj7-24" target="33EV09qo5TnwpSvwFXFL-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="300" as="sourcePoint" />
+            <mxPoint x="910" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="148" />
+              <mxPoint x="720" y="205" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
