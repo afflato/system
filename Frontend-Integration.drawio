@@ -1,71 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T17:30:52.246Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dlMi0MrnRdKQkDCnTUbW" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T17:34:21.371Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ch6K1cmB7tQmeSeGStaT" version="22.1.16" type="github" pages="2">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
-    <mxGraphModel dx="956" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" parent="1" vertex="1">
           <mxGeometry x="135" y="37" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" parent="1" vertex="1">
           <mxGeometry x="16" y="36" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-3" value="Shopping Cart App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-3" value="Shopping Cart App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="127" y="131" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-4" value="Product Listing App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-4" value="Product Listing App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="6" width="270" height="170" as="geometry" />
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-10" value="Monolithic Single Page Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="319" y="169" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-8" value="Product Listing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="87" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-9" value="Shopping Cart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="87" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-10" value="Monolithic Single Page Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="197" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="6" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="msXrQutdEgU7XMJ9eGrg-13">
-          <mxGeometry width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-7" value="React/Vue/Angular&lt;br&gt;Single Page Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="msXrQutdEgU7XMJ9eGrg-13">
-          <mxGeometry x="50" y="10" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="722" y="30" width="121" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" parent="1" vertex="1">
           <mxGeometry x="726" y="37" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="592" y="30" width="121" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/Web_website_favorite_site_star-128.png" parent="1" vertex="1">
           <mxGeometry x="597" y="37" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-16" value="Shopping Cart App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-16" value="Shopping Cart App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="719" y="131" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-17" value="Product Listing App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-17" value="Product Listing App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="587" y="131" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-20" value="Major Feature#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-20" value="Major Feature#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="597" y="6" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="msXrQutdEgU7XMJ9eGrg-21" value="Major Feature#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-21" value="Major Feature#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="719" y="6" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="6" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="yO8kdcnrtrjrrBu5rs9_-2" vertex="1">
+          <mxGeometry width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-8" value="Product Listing" style="rounded=0;whiteSpace=wrap;html=1;" parent="yO8kdcnrtrjrrBu5rs9_-2" vertex="1">
+          <mxGeometry x="20" y="81" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-9" value="Shopping Cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="yO8kdcnrtrjrrBu5rs9_-2" vertex="1">
+          <mxGeometry x="150" y="81" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-13" value="" style="group" parent="yO8kdcnrtrjrrBu5rs9_-2" vertex="1" connectable="0">
+          <mxGeometry width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="msXrQutdEgU7XMJ9eGrg-13" vertex="1">
+          <mxGeometry width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msXrQutdEgU7XMJ9eGrg-7" value="React/Vue/Angular&lt;br&gt;Single Page Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="msXrQutdEgU7XMJ9eGrg-13" vertex="1">
+          <mxGeometry x="50" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="210" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-10">
+          <mxGeometry width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-5" value="Product Listing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-10">
+          <mxGeometry x="20" y="68" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-7" value="" style="group" vertex="1" connectable="0" parent="yO8kdcnrtrjrrBu5rs9_-10">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-7">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-9" value="React/Vue/Angular&lt;br&gt;Single Page Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-7">
+          <mxGeometry x="10" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="210" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-11">
+          <mxGeometry width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-13" value="Shopping Cart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-11">
+          <mxGeometry x="20" y="68" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-14" value="" style="group" vertex="1" connectable="0" parent="yO8kdcnrtrjrrBu5rs9_-11">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-14">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO8kdcnrtrjrrBu5rs9_-16" value="React/Vue/Angular&lt;br&gt;Single Page Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yO8kdcnrtrjrrBu5rs9_-14">
+          <mxGeometry x="10" y="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Webpack " id="f_ubU6b-C9NsZ_72Fe37">
-    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
