@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T18:41:24.089Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TFcQLLCI8gREQMqn6VfK" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T18:42:11.918Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xwQnudq0hHs20VkR8OEW" version="22.1.16" type="github" pages="2">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Webpack " id="f_ubU6b-C9NsZ_72Fe37">
-    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,8 +333,8 @@
         <mxCell id="PlugJkCY-pkuOAztnRj7-25" value="Makes output easily&lt;br&gt;&amp;nbsp;available to the browser" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="479" y="235" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33EV09qo5TnwpSvwFXFL-1" value="Note: bundle.js or main.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="46" y="318" width="160" height="30" as="geometry" />
+        <mxCell id="33EV09qo5TnwpSvwFXFL-1" value="Note: bundle.js or main.js, sometimes totally unpredictable names" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="318" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33EV09qo5TnwpSvwFXFL-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="10" width="220" height="290" as="geometry" />
