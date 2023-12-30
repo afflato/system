@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T18:31:13.498Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tKpf9fLMDYCJEUIEj_YI" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T18:31:58.607Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="08tI8hvf0v8-5hGNDzZ4" version="22.1.16" type="github" pages="2">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -332,6 +332,9 @@
         </mxCell>
         <mxCell id="PlugJkCY-pkuOAztnRj7-25" value="Makes output easily&lt;br&gt;&amp;nbsp;available to the browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="PlugJkCY-pkuOAztnRj7-26" vertex="1">
           <mxGeometry x="479" y="235" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="33EV09qo5TnwpSvwFXFL-1" value="Note: bundle.js or main.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="46" y="318" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
