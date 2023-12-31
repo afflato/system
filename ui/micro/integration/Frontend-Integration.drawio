@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T04:29:27.360Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RgCSNJQkk5sR8d44VGN3" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-31T04:32:02.167Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8JHcqT09qcaUZkDJIlMh" version="22.1.16" type="github" pages="3">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -468,6 +468,9 @@
         <mxCell id="jf947JhWThxosUPHZOCs-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="30" y="827" width="190" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jf947JhWThxosUPHZOCs-51" target="jf947JhWThxosUPHZOCs-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jf947JhWThxosUPHZOCs-51" value="Webpack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="867" width="110" height="60" as="geometry" />
         </mxCell>
@@ -509,6 +512,18 @@
         </mxCell>
         <mxCell id="jf947JhWThxosUPHZOCs-71" value="bootstrap.js" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#757575;" vertex="1" parent="1">
           <mxGeometry x="418" y="947" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jf947JhWThxosUPHZOCs-54" target="jf947JhWThxosUPHZOCs-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jf947JhWThxosUPHZOCs-51" target="jf947JhWThxosUPHZOCs-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-75" value="Only contains contents of &lt;br&gt;index.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="812" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-76" value="Contains bootstrap.js. Webpack&lt;br&gt;&amp;nbsp;knows it has to fetch something &lt;br&gt;from products before running &lt;br&gt;this file!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1000" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
