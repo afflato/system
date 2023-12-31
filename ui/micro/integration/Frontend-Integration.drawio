@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T04:08:25.055Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ENkdIBq6Qkhbvss769zs" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-31T04:12:32.344Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dqyq72ANtEWnOdCo3aLW" version="22.1.16" type="github" pages="3">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Webpack " id="f_ubU6b-C9NsZ_72Fe37">
-    <mxGraphModel dx="478" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,6 +452,18 @@
               <mxPoint x="400" y="750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-46" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This means we can still run&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Products as a standalone&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="464" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-47" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Contains a list of files that are&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;available from this project +&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;directions on how to load them&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="540" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-48" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Version of src/index.js that can&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;be&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;safely loaded into the&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;browser&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="631" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jf947JhWThxosUPHZOCs-49" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Version of faker that can be&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;safely loaded into the browser&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="538" y="730" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
