@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T12:43:50.342Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="klaKBmzcouOTqtZS_kDf" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-01T12:45:24.477Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Nqps98CnD76A04oCmPwN" version="22.1.16" type="github" pages="3">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,16 +630,16 @@
         <mxCell id="-4YHTA4yX1Fw82djKqIc-2" value="Requests for Barchart.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-4YHTA4yX1Fw82djKqIc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-4YHTA4yX1Fw82djKqIc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="550" y="410" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-4YHTA4yX1Fw82djKqIc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-4YHTA4yX1Fw82djKqIc-4" target="-4YHTA4yX1Fw82djKqIc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-4YHTA4yX1Fw82djKqIc-4" value="remoteEntry.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-4YHTA4yX1Fw82djKqIc-4" value="remoteEntry.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="370" y="475" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-4YHTA4yX1Fw82djKqIc-7" value="&lt;b&gt;Charts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-4YHTA4yX1Fw82djKqIc-7" value="&lt;b&gt;Charts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="410" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-4YHTA4yX1Fw82djKqIc-8" value="barchart/index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -650,6 +650,12 @@
         </mxCell>
         <mxCell id="-4YHTA4yX1Fw82djKqIc-10" value="radarchart/index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="565" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-4YHTA4yX1Fw82djKqIc-12" value="Hi Charts, I am &lt;br&gt;looking for Barcharts&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="19" y="443" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-4YHTA4yX1Fw82djKqIc-13" value="Oh! they are looking for&lt;br&gt;&amp;nbsp;brachart/index.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="563" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
