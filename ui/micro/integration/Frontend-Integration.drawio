@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T01:47:09.734Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LPXPhEAp0uAi1fGa5gQT" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-02T01:51:16.964Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="28iJ87VvURbh-WULoc3T" version="22.1.16" type="github" pages="4">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -848,6 +848,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-2" value="&lt;b&gt;Products&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-3" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="105" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0Kpyg7cO9uMWIoVoMTE-4" target="W0Kpyg7cO9uMWIoVoMTE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-4" value="Faker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="171" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="247" y="39" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-8" value="&lt;b&gt;Cart&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="247" y="39" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-9" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="104" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0Kpyg7cO9uMWIoVoMTE-11" target="W0Kpyg7cO9uMWIoVoMTE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W0Kpyg7cO9uMWIoVoMTE-11" value="Faker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="170" width="80" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
