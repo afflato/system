@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T05:48:31.924Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_6g--CC1aPBvK02A02Au" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-03T05:58:13.704Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jGQG2xUOqa2GiECsc4L3" version="22.1.16" type="github" pages="5">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1205,16 +1205,46 @@
           <mxGeometry x="11" y="1740" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-153" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1600" width="177" height="30" as="geometry" />
+          <mxGeometry x="75" y="1780" width="177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-154" value="Near zero coupling between container and child apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1630" width="291" height="30" as="geometry" />
+          <mxGeometry x="11" y="1810" width="291" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-155" value="Container shouldn&#39;t assume that a child is using a particular framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1680" width="292" height="30" as="geometry" />
+          <mxGeometry x="11" y="1860" width="292" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-156" value="Any necessary communication done with callbacks or simple events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1730" width="292" height="30" as="geometry" />
+          <mxGeometry x="11" y="1910" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1960" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-164" value="CSS from one project shouldn&#39;t affect another" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="8" y="1990" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-168" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425.78999999999996" y="1600" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-169" value="Version control (monorepo vs separate) shouldn&#39;t have any impact on the overall project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="381.78999999999996" y="1630" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-170" value="Some people want to use monorepo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="383.78999999999996" y="1680" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-171" value="Some people want to keep everything in a separate rep" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="383.78999999999996" y="1710" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-173" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #5&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425.78999999999996" y="1760" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-174" value="Container should be able to decide to always use the latest version of a microfrontend or specify a specific version" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="381.78999999999996" y="1790" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-175" value="1) Container should always use the latest version o a child app(doesn&#39;t require a redeploy of the container)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="381.78999999999996" y="1870" width="276" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-177" value="2) Container can specify exactly what version of a child it wants to use(requires a redploy to change)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="381.78999999999996" y="1930" width="276" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
