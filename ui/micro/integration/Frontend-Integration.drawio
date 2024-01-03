@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T05:40:40.241Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UEX9JcaNA9aKl5QHdJWE" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-03T05:48:31.924Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_6g--CC1aPBvK02A02Au" version="22.1.16" type="github" pages="5">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -912,7 +912,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NpgzLRaEhNbKmjMi_uA5" name="Sample Wireframe">
-    <mxGraphModel dx="819" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1094,37 +1094,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Home Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1140.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="179" y="1140.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pricing Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1209.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="179" y="1209.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sign In Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1320.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="179" y="1320.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sign Up Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1390.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="179" y="1390.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-117" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dashboard Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1510.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="179" y="1510.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-118" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1130.5" width="30" height="150" as="geometry" />
+          <mxGeometry x="139" y="1130.5" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-119" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1312.5" width="30" height="148" as="geometry" />
+          <mxGeometry x="139" y="1312.5" width="30" height="148" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-120" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="151" y="1501.5" width="30" height="79" as="geometry" />
+          <mxGeometry x="140" y="1501.5" width="30" height="79" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Marketing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1195.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="19" y="1195.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Authentication&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1380.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="16" y="1380.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-123" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Dashboard&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1521" width="110" height="40" as="geometry" />
+          <mxGeometry x="18" y="1521" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-124" value="Container" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="572.79" y="1249.5" width="120" height="40" as="geometry" />
@@ -1188,6 +1188,33 @@
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-130" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="708.79" y="1382.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1600" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-146" value="Zero coupling between child Projects" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1630" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-150" value="No importing of functions/classes/objects/etc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="11" y="1680" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-151" value="No shared State" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="11" y="1710" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-152" value="Shared library through MF is ok" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="11" y="1740" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-153" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Inflexible Requirement #2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1600" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-154" value="Near zero coupling between container and child apps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1630" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-155" value="Container shouldn&#39;t assume that a child is using a particular framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1680" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-156" value="Any necessary communication done with callbacks or simple events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1730" width="292" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
