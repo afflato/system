@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T17:25:05.953Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LGpclY-MyKLalSB3H8YU" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:26:42.790Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-sk5RNKMy531EWgWT5DW" version="22.1.16" type="github" pages="6">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1250,7 +1250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3MNbU8jc7_vOiEkmb289" name="mfp">
-    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1297,25 +1297,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Marketing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="550" width="150" height="50" as="geometry" />
+          <mxGeometry x="120" y="530" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Container&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="150" height="50" as="geometry" />
+          <mxGeometry x="120" y="310" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nre2C91rgxyClXidFmKA-3" target="nre2C91rgxyClXidFmKA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-3" value="MarketingApp React Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="110" height="40" as="geometry" />
+          <mxGeometry x="140" y="420" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-6" value="Uses React" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="90" height="30" as="geometry" />
+          <mxGeometry x="30" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-7" value="Uses React" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="90" height="30" as="geometry" />
+          <mxGeometry x="30" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-8" value="Why aren&#39;t we doing this?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nre2C91rgxyClXidFmKA-10" target="nre2C91rgxyClXidFmKA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Marketing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="530" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Container&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nre2C91rgxyClXidFmKA-13" target="nre2C91rgxyClXidFmKA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-13" value="mount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-14" value="Uses Flubber" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-15" value="Uses React" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-16" value="Tightly Coupled" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="608" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nre2C91rgxyClXidFmKA-17" value="Zero Coupling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="600" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
