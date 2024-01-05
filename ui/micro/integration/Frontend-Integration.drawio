@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T04:53:40.594Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UR64t9rRmi1u02wPqHt2" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-05T04:54:08.669Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="buYq9fS0WC6qDujuuD2n" version="22.1.16" type="github" pages="6">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1027,44 +1027,8 @@
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-24" value="Sign In Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="133" y="391" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-33" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="439" width="380" height="341" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-34" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-35" value="app.com/auth/signup" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sign Up&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="70" y="134" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-37" value="Sign Up" style="rounded=1;whiteSpace=wrap;html=1;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="120" y="294" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-38" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Email&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="80" y="178" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-39" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Password&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="80" y="216" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-58" value="Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="320" y="105" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.001;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="132" as="sourcePoint" />
-            <mxPoint x="380" y="131" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-61" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
-          <mxGeometry x="-10" y="104" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-40" value="Sign Up Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="543" y="391" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-41" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Password again&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="510" y="694" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-42" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="819" width="380" height="310" as="geometry" />
@@ -1245,6 +1209,45 @@
         </mxCell>
         <mxCell id="aC-ewJ2w6KmTDy4kM2eo-177" value="2) Container can specify exactly what version of a child it wants to use(requires a redploy to change)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="381.78999999999996" y="1930" width="276" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8i8a-aIgrlNI-H05nHP-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="439" width="380" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-33" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="Q8i8a-aIgrlNI-H05nHP-1" vertex="1">
+          <mxGeometry width="380" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-34" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-35" value="app.com/auth/signup" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sign Up&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="70" y="134" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-37" value="Sign Up" style="rounded=1;whiteSpace=wrap;html=1;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="120" y="294" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-38" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Email&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="80" y="178" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-39" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Password&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="80" y="216" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-58" value="Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="320" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.001;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="132" as="sourcePoint" />
+            <mxPoint x="380" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-61" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aC-ewJ2w6KmTDy4kM2eo-33" vertex="1">
+          <mxGeometry x="-10" y="104" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-ewJ2w6KmTDy4kM2eo-41" value="&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;Enter Password again&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="Q8i8a-aIgrlNI-H05nHP-1" vertex="1">
+          <mxGeometry x="80" y="255" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
