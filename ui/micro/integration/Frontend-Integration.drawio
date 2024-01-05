@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T04:57:32.480Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6c1ocdWslAm_My-PZrZm" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-05T05:04:02.713Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="llpcGXpGOEJ2kY0_p_Pw" version="22.1.16" type="github" pages="7">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1359,7 +1359,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IxJD2GbhsVC_pdvfu66i-2" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="350" height="30" as="geometry" />
+          <mxGeometry x="10" y="10" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IxJD2GbhsVC_pdvfu66i-3" value="Want to deploy each microfrontend independently(including the container)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxJD2GbhsVC_pdvfu66i-4" value="Location of child app remoteEntry.js must be known at build time!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxJD2GbhsVC_pdvfu66i-5" value="Many frontend deployment solutions assume you&#39;re deploying a single project - we need something that can handle multiple different ones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxJD2GbhsVC_pdvfu66i-6" value="Probably need a CI/CD of some sort" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxJD2GbhsVC_pdvfu66i-7" value="At present, the remoteEntry.js file name is fixed! Need to think about caching issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
