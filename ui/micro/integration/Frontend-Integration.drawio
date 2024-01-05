@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T05:16:32.598Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HHTj0gwz06b2uKKFe7Pe" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-05T05:31:18.721Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="byHWEMVFeJr8mIqSGewl" version="22.1.16" type="github" pages="8">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1354,7 +1354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3CduhbkILWVP8ECrKPTh" name="Deployment">
-    <mxGraphModel dx="683" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1502,6 +1502,32 @@
         </mxCell>
         <mxCell id="IxJD2GbhsVC_pdvfu66i-52" value="Webpack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="365" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pFS7UIZGfw7dQhQeYTh1" name="Page-8">
+    <mxGraphModel dx="1195" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="231" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Container&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="231" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-3" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="86" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-4" value="bootstrap.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="127" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-5" value="dependencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="169" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w7TyPHQ1nqVsj0Ai1wre-6" value="dependencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="211" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
