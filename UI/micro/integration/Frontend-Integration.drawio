@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T05:26:30.834Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bCIMzAeoTGAhYfnhGa7K" version="22.1.17" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-08T05:27:23.559Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b7MmaUTpDKSdefJcITyp" version="22.1.17" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1825,7 +1825,7 @@
         <mxCell id="7iA81FWfccfSxNDI0qgw-3" value="app.com/auth/signin" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;container=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="132" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7iA81FWfccfSxNDI0qgw-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sign In&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="7iA81FWfccfSxNDI0qgw-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;Sign In&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="582" y="202" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7iA81FWfccfSxNDI0qgw-5" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
@@ -1849,11 +1849,20 @@
         <mxCell id="7iA81FWfccfSxNDI0qgw-10" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="181" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="szkmbgsKXITonKMv62Zf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="szkmbgsKXITonKMv62Zf-1" target="szkmbgsKXITonKMv62Zf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="szkmbgsKXITonKMv62Zf-1" value="User starts here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="383" width="280" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="szkmbgsKXITonKMv62Zf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="szkmbgsKXITonKMv62Zf-2" target="szkmbgsKXITonKMv62Zf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="szkmbgsKXITonKMv62Zf-2" value="Navigates to &#39;auth&#39;, loads up additional CSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="383" width="280" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="szkmbgsKXITonKMv62Zf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szkmbgsKXITonKMv62Zf-3" target="szkmbgsKXITonKMv62Zf-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="szkmbgsKXITonKMv62Zf-3" value="CSS includes&amp;nbsp;&lt;br&gt;h1 {color: &#39;green&#39;}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="280" height="47" as="geometry" />
