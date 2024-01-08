@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T05:28:03.581Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H-bh3yYDA0j_kBSKGPC9" version="22.1.17" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-08T05:30:14.190Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nzrkY1iF1UNWnhCRkSjt" version="22.1.17" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1869,6 +1869,9 @@
         </mxCell>
         <mxCell id="szkmbgsKXITonKMv62Zf-4" value="User navigates back to pricing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="280" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="szkmbgsKXITonKMv62Zf-8" value="Pricing header will also start to show as green, &lt;br&gt;because CSS from auth microservice changed this" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="18" y="540" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
