@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T05:41:04.058Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J0c0UBX62NQziQ7E-KLZ" version="22.1.17" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-09T05:44:14.607Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dPr2OQuafLMuGYQ0wAq2" version="22.1.17" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2085,6 +2085,30 @@
         </mxCell>
         <mxCell id="y1ocDEA_wHaD_1zWYzgF-77" value="&lt;b&gt;To make this generated CSS as small as possible, the selector is turned into something like &#39;jss1&#39;, &#39;jss2&#39;, &#39;jss3&#39;, etc&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="501" y="2369" width="318" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-81" value="Landing Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2450" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-82" value="&lt;div style=&quot;text-align: left;&quot;&gt;&amp;lt;div class=&quot;jss1&quot;&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2490" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-83" value="Container" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="42" y="2590" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-84" value="&lt;div style=&quot;text-align: left;&quot;&gt;&amp;lt;div class=&quot;jss1&quot;&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="2630" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1ocDEA_wHaD_1zWYzgF-85" target="y1ocDEA_wHaD_1zWYzgF-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-85" value=".jss1 {border: 3px solid black}" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2440" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1ocDEA_wHaD_1zWYzgF-87" target="y1ocDEA_wHaD_1zWYzgF-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ocDEA_wHaD_1zWYzgF-87" value=".jss1 {padding: 30px}" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2580" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
