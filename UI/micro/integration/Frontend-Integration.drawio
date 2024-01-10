@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T15:53:56.999Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UBmYqlUg2i5B8yCpL2x4" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-10T15:54:46.526Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WxwhFJcQfou9O6P2xEMB" version="22.1.18" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2136,6 +2136,15 @@
         </mxCell>
         <mxCell id="xgjQETpH3RwbU6YzVfFG-9" value="http://app.com#marketing/pricing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="3000" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgjQETpH3RwbU6YzVfFG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xgjQETpH3RwbU6YzVfFG-11" target="xgjQETpH3RwbU6YzVfFG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgjQETpH3RwbU6YzVfFG-11" value="Memory or Abstract&lt;br&gt;History" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3080" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgjQETpH3RwbU6YzVfFG-12" value="Look at the everything after the &#39;#&#39; int the URL to figure out the current path" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3080" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
