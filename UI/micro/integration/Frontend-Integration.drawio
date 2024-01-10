@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T16:39:56.893Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gdsd-U7tbziiMNdhDP94" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-10T16:42:36.412Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L5E09NZ5a8MJVfWTYtho" version="22.1.18" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1764,7 +1764,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0X125TnRyuXo6FV3gHdj" name="Cloud">
-    <mxGraphModel dx="819" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2195,6 +2195,9 @@
         <mxCell id="CSPz2AK5BGaskB1JXLRU-15" value="Container" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="28" y="3740" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CSPz2AK5BGaskB1JXLRU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CSPz2AK5BGaskB1JXLRU-16" target="CSPz2AK5BGaskB1JXLRU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CSPz2AK5BGaskB1JXLRU-16" value="Marketing" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="3950" width="210" height="40" as="geometry" />
         </mxCell>
@@ -2206,6 +2209,18 @@
         </mxCell>
         <mxCell id="CSPz2AK5BGaskB1JXLRU-18" value="onNavigate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="81" y="3832" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CSPz2AK5BGaskB1JXLRU-19" value="Click on Pricing Link in the Marketing app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CSPz2AK5BGaskB1JXLRU-21" value="Update Memory History&#39;s current path to &#39;/pricing&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="536" y="3899" width="194" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CSPz2AK5BGaskB1JXLRU-22" value="Click &#39;onNavigate&#39; to tell container that the current path has changed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="536" y="3949" width="194" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CSPz2AK5BGaskB1JXLRU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CSPz2AK5BGaskB1JXLRU-19" target="CSPz2AK5BGaskB1JXLRU-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
