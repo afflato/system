@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T04:17:16.380Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i1egF66i1l9u-O99dOW8" version="22.1.18" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-11T04:19:41.634Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cSiHjn-myY2ckTb8Asp9" version="22.1.18" type="github" pages="9">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2277,6 +2277,59 @@
         </mxCell>
         <mxCell id="ZYhiOiy-tMIX0WwHoYK1-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Path can be customized by adding a publicPath&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="555" y="4520" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZYhiOiy-tMIX0WwHoYK1-20" target="ZYhiOiy-tMIX0WwHoYK1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-20" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="4650" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-21" value="app.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="4680" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-22" value="Inputs" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="4610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-23" value="index.html" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="4730" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-24" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="4650" width="257" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-25" value="main.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="4675" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-26" value="Outputs" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="4610" width="257" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-27" value="index.html" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="4725" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZYhiOiy-tMIX0WwHoYK1-29" target="ZYhiOiy-tMIX0WwHoYK1-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="4783" />
+              <mxPoint x="840" y="4690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-29" value="&amp;lt;script src=&quot;main.js&quot;&amp;gt;&amp;lt;/script&amp;gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="4755" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-30" value="publicPath: &#39;/&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="365" y="4630" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZYhiOiy-tMIX0WwHoYK1-30" target="ZYhiOiy-tMIX0WwHoYK1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-32" value="Webpack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="365" y="4600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZYhiOiy-tMIX0WwHoYK1-33" target="ZYhiOiy-tMIX0WwHoYK1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYhiOiy-tMIX0WwHoYK1-33" value="Get script at localhost:8082/main.js&lt;br&gt;Good...kinda!" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="611" y="4910" width="208" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
