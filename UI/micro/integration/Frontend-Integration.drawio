@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T10:59:32.154Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z9NOu43VhifITQbOOmPL" version="22.1.18" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-13T11:00:00.566Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GJ1f1XHiylHwbMFq-xgW" version="22.1.18" type="github" pages="10">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2431,7 +2431,7 @@
         <mxCell id="Iipe5PxC5bSd_0eLN6RM-9" value="false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="40" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iipe5PxC5bSd_0eLN6RM-10" value="Dashboard App" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-10" value="Dashboard App" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="640" y="211" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iipe5PxC5bSd_0eLN6RM-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
