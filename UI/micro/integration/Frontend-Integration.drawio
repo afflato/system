@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T10:52:29.081Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mJ4xtCZ4lt8ED5bMSGMF" version="22.1.18" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-13T10:59:32.154Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z9NOu43VhifITQbOOmPL" version="22.1.18" type="github" pages="10">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2382,21 +2382,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vf43W9Lu-r35TpwTocEr" name="Auth">
-    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I9tt8M2oS-Q9PtHJqYqY-1" value="Two approaches for handling auth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="310" height="30" as="geometry" />
+          <mxGeometry x="10" y="10" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I9tt8M2oS-Q9PtHJqYqY-2" value="1) Each app is aware of auth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="10" y="60" width="310" height="30" as="geometry" />
+          <mxGeometry x="10" y="60" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I9tt8M2oS-Q9PtHJqYqY-3" value="2) Centralize auth in container" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="10" y="100" width="310" height="30" as="geometry" />
+          <mxGeometry x="10" y="116" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9tt8M2oS-Q9PtHJqYqY-4" value="Two approaches for handling auth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="160" width="310" height="30" as="geometry" />
+        <mxCell id="I9tt8M2oS-Q9PtHJqYqY-4" value="Auth app is for sign in/up users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I9tt8M2oS-Q9PtHJqYqY-5" value="Auth app is not for enforcing permissions, allowing access to certain routes or figuring out if user is signed in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I9tt8M2oS-Q9PtHJqYqY-6" value="Results in code duplicacy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-1" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="30" width="379.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-2" value="Auth App" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="211" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="80" as="sourcePoint" />
+            <mxPoint x="498" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-4" value="onAuthChange" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="412" y="116" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-6" value="Container" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="10" width="379.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iipe5PxC5bSd_0eLN6RM-7" target="Iipe5PxC5bSd_0eLN6RM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-7" value="isSignedIn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="482" y="40" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-9" value="false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-10" value="Dashboard App" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="211" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iipe5PxC5bSd_0eLN6RM-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="80" as="sourcePoint" />
+            <mxPoint x="720" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
