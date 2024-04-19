@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T04:07:17.570Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Jw8Nqfj40mEH8XuaYq6E" version="24.2.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-19T06:02:08.381Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hCsfZ8ex7lZjCa8QReu1" version="24.2.5" type="github" pages="10">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,10 +71,10 @@
           <mxGeometry width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-5" value="Product Listing" style="rounded=0;whiteSpace=wrap;html=1;" parent="yO8kdcnrtrjrrBu5rs9_-10" vertex="1">
-          <mxGeometry x="20" y="68" width="130" height="50" as="geometry" />
+          <mxGeometry x="29" y="30" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-7" value="" style="group" parent="yO8kdcnrtrjrrBu5rs9_-10" vertex="1" connectable="0">
-          <mxGeometry width="170" height="50" as="geometry" />
+          <mxGeometry x="9" y="-38" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yO8kdcnrtrjrrBu5rs9_-7" vertex="1">
           <mxGeometry width="170" height="50" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-13" value="Shopping Cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="yO8kdcnrtrjrrBu5rs9_-11" vertex="1">
-          <mxGeometry x="20" y="68" width="130" height="50" as="geometry" />
+          <mxGeometry x="29" y="30" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-14" value="" style="group" parent="yO8kdcnrtrjrrBu5rs9_-11" vertex="1" connectable="0">
-          <mxGeometry width="170" height="50" as="geometry" />
+          <mxGeometry x="9" y="-38" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yO8kdcnrtrjrrBu5rs9_-14" vertex="1">
           <mxGeometry width="170" height="50" as="geometry" />
@@ -101,13 +101,13 @@
           <mxGeometry x="10" y="10" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="498" y="294" width="111" height="120" as="geometry" />
+          <mxGeometry x="507" y="256" width="111" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-19" value="Product Listing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="354" width="91" height="50" as="geometry" />
+          <mxGeometry x="517" y="316" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="498" y="294" width="211" height="120" as="geometry" />
+          <mxGeometry x="507" y="256" width="211" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yO8kdcnrtrjrrBu5rs9_-20" vertex="1">
           <mxGeometry width="111.00000000000001" height="50" as="geometry" />
@@ -116,13 +116,13 @@
           <mxGeometry x="6.529411764705883" y="10" width="97.94117647058825" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="629" y="292" width="111" height="120" as="geometry" />
+          <mxGeometry x="638" y="254" width="111" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-30" value="Shopping Cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="639" y="352" width="91" height="50" as="geometry" />
+          <mxGeometry x="648" y="314" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="629" y="292" width="111" height="50" as="geometry" />
+          <mxGeometry x="638" y="254" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yO8kdcnrtrjrrBu5rs9_-31" vertex="1">
           <mxGeometry width="111.00000000000001" height="50" as="geometry" />
