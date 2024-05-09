@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T05:09:51.766Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yFH0tkdswxOp-SblCm0e" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T05:10:44.288Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YBYU46N2-38WNz9ULxsG" version="24.3.1" type="github">
   <diagram name="Page-1" id="2lKPB6G0regEdDibs2Pk">
     <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="vrQK5T2YbZI1eICUe0Q2-14" value="&lt;b&gt;Standard Structure&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vrQK5T2YbZI1eICUe0Q2-15" value="GET&lt;div&gt;POST&lt;/div&gt;&lt;div&gt;PUT&lt;/div&gt;&lt;div&gt;DELETE&lt;/div&gt;&lt;div&gt;PATCH&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="22" y="135" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
