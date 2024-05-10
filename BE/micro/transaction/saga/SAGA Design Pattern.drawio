@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T04:43:34.489Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mFACngf0EJyOOILNPdGY" version="24.3.1" type="github">
-  <diagram name="Page-1" id="2lKPB6G0regEdDibs2Pk">
+<mxfile host="app.diagrams.net" modified="2024-05-10T04:44:22.566Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lSNFc3QtA6llYg9vNWRw" version="24.3.1" type="github" pages="2">
+  <diagram name="CQRS" id="2lKPB6G0regEdDibs2Pk">
     <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -265,6 +265,14 @@
         <mxCell id="flbyCanZl-e_JgoIbT8T-3" value="Event Sourcing and CQRS Architecture overview" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="53.010000000000005" y="890" width="280" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9_GEjSES-XIURFubGboF" name="SAGA-orchestration">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
