@@ -14,7 +14,7 @@
           <mxGeometry x="364" y="182.5" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-32" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="197.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="420" y="190" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-159" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="324" width="330" height="390" as="geometry" />
