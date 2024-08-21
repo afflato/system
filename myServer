@@ -11,7 +11,7 @@
           <mxGeometry x="730" y="78" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;" parent="1" vertex="1">
-          <mxGeometry x="364" y="175" width="50" height="35" as="geometry" />
+          <mxGeometry x="364" y="182.5" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-32" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="190" width="90" height="20" as="geometry" />
