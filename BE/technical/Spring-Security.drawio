@@ -325,6 +325,66 @@
             <mxPoint x="289" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-24" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="58" y="1050" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-25" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="58" y="1245" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-26" value="&lt;b&gt;CORS = Cross Origin Resource Sharing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="948" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-27" value="Product Frontend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8B900;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-28" value="Coupon API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EE230B;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1090" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-29" value="Coupon Frontend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#61D836;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1220" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-30" value="&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;couponapi.com&lt;/font&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-31" value="&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;productfrontend.com&lt;/font&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-32" value="&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;couponfrontend.com&lt;/font&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1040" as="sourcePoint" />
+            <mxPoint x="700" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1270" as="sourcePoint" />
+            <mxPoint x="700" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1070" as="sourcePoint" />
+            <mxPoint x="360" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1250" as="sourcePoint" />
+            <mxPoint x="360" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-37" value="Access-Control-Allow-Origin" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1085" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-38" value="Access-Control-Allow-Methods" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1115" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-39" value="Access-Control-Allow-Headers" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1145" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
