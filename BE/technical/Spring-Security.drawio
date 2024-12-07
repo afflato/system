@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="qGHYASbo4h0j2s2UQ7R0">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,96 @@
         </mxCell>
         <mxCell id="aeV8_uj1eHOTyjAemC0K-21" value="&lt;b&gt;AuthenticationSuccessHandler&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="poNLRYJRRaV39XPfBlz4-1" vertex="1">
           <mxGeometry x="35" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="31" y="730" width="770" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-3" value="Authentication Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EE230B;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-4" value="Authentication Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#61D836;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="350" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-5" value="Authentication Provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8B900;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="576" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-6" value="Security Context" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A2FF;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="35" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-8" value="UserDetails&lt;div&gt;Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF5FA7;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="470" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-9" value="Password&lt;div&gt;Encoder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="650" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="40" as="sourcePoint" />
+            <mxPoint x="100" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.543;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1" target="KCbasqvIXfaa04AeeiHE-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="40" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1" target="KCbasqvIXfaa04AeeiHE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="40" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="7" as="sourcePoint" />
+            <mxPoint x="134" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="24" as="sourcePoint" />
+            <mxPoint x="55" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="7" as="sourcePoint" />
+            <mxPoint x="344" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="24" as="sourcePoint" />
+            <mxPoint x="265" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="6" as="sourcePoint" />
+            <mxPoint x="570" y="6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="23" as="sourcePoint" />
+            <mxPoint x="491" y="23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-21" value="CSRF Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A2FF;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="230" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-22" value="CSRFTokenRepository" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#61D836;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="KCbasqvIXfaa04AeeiHE-1">
+          <mxGeometry x="222.5" y="150" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCbasqvIXfaa04AeeiHE-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KCbasqvIXfaa04AeeiHE-1" source="KCbasqvIXfaa04AeeiHE-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="110" as="sourcePoint" />
+            <mxPoint x="289" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
