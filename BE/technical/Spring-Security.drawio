@@ -199,8 +199,8 @@
         <mxCell id="L0lIHW6_7-lsRlVvseEU-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Federated Authentication&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1452" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SO6boBuOTi9O-m2DSPjr-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5" y="329" width="825" height="350" as="geometry" />
+        <mxCell id="SO6boBuOTi9O-m2DSPjr-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="5" y="337" width="825" height="350" as="geometry" />
         </mxCell>
         <mxCell id="aeV8_uj1eHOTyjAemC0K-42" value="" style="group" parent="SO6boBuOTi9O-m2DSPjr-1" vertex="1" connectable="0">
           <mxGeometry x="41" y="40" width="770" height="190" as="geometry" />
@@ -343,7 +343,7 @@
             <mxPoint x="195" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SO6boBuOTi9O-m2DSPjr-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="SO6boBuOTi9O-m2DSPjr-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="58" y="1067" width="732" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KCbasqvIXfaa04AeeiHE-24" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="SO6boBuOTi9O-m2DSPjr-2" vertex="1">
@@ -400,7 +400,7 @@
         <mxCell id="KCbasqvIXfaa04AeeiHE-39" value="&lt;b&gt;Access-Control-Allow-Headers&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="SO6boBuOTi9O-m2DSPjr-2" vertex="1">
           <mxGeometry x="30" y="145" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SO6boBuOTi9O-m2DSPjr-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="SO6boBuOTi9O-m2DSPjr-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="58" y="1486" width="712" height="336" as="geometry" />
         </mxCell>
         <mxCell id="L0lIHW6_7-lsRlVvseEU-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="SO6boBuOTi9O-m2DSPjr-3" vertex="1">
