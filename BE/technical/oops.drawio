@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="27.0.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Android 14; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0" version="26.3.0" pages="2">
   <diagram name="Page-1" id="QpAsIc9VxQo2tAjJdrUa">
     <mxGraphModel dx="324" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mVsqojiOygB-uuAasu_9" name="Loom">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="324" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,8 +259,8 @@
             <mxPoint x="220" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k1QlYY30l8eu8NrdW4HK-22" value="Thread Per Request Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="117.35" y="368" width="170" height="30" as="geometry" />
+        <mxCell id="k1QlYY30l8eu8NrdW4HK-22" value="Thread Per Request Model - Spring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="110" y="369" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k1QlYY30l8eu8NrdW4HK-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="90" y="484.5" width="125" height="100" as="geometry" />
