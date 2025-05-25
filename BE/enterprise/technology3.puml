@@ -1,0 +1,53 @@
+	
+@startmindmap
+title "Technology Architecture"
++[#Orange] Architecture Characteristics
+--[#lightBlue]_ Fault Tolerance
+--[#lightBlue]_ Modularity
+--[#lightBlue]_ Cost
+--[#lightBlue]_ Scalability
+++[#FFBBCC]_ Deployability
+++[#FFBBCC]_ Elasticty
+++[#FFBBCC]_ Performance
+++[#FFBBCC]_ Reliability
+++[#FFBBCC]_ Simplicity
+++[#FFBBCC]_ Testability
+
+
+
++[#FFBBCC] Decision Criteria
+++[#FFBBCC]_ Data architecture
+++[#FFBBCC]_ Org Factors
+++[#FFBBCC]_ Domain/architecture isomorphism
+++[#FFBBCC]_ Monolith vs Distributed
+++[#FFBBCC]_ Data flow
+++[#FFBBCC]_ Communication Style - synchronous vs asynchronous
+
+
+
+
++[#lightgreen] Architecures
+++[#FFBBCC]_ Monolith
+++[#FFBBCC]_ Microservices
+++[#FFBBCC]_ MicroKernel
+++[#FFBBCC]_ Modular Monolith
+++[#FFBBCC]_ Macroservices
+++[#FFBBCC]_ Layered
+++[#FFBBCC]_ Event Driven
+++[#FFBBCC]_ Space based architecure
+++[#FFBBCC]_ Client based architecture
+++[#FFBBCC]_ Master Slave
+++[#FFBBCC]_ Pipe filter
+++[#FFBBCC]_ Broker Architecure 
+++[#FFBBCC]_ Peer to Peer
+++[#FFBBCC]_ MVC
+++[#FFBBCC]_ Blackboard
+++[#FFBBCC]_ Interpreter
+--_ Anit Patterns
+---_ Groundhog day
+---_ Email Driven
+---_ Covering your assets
+
+@endmindmap	
+
+

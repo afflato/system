@@ -1,0 +1,55 @@
+@startuml
+title "Technology Architecture"
+
+
+rectangle A [
+    1
+{{
+    skinparam Backgroundcolor transparent
+    rectangle Software Architecure
+}}
+]
+
+rectangle B [
+    2
+{{
+    skinparam Backgroundcolor transparent
+    rectangle Cloud Architecure
+}}
+]
+
+rectangle C [
+    3
+{{
+    skinparam Backgroundcolor transparent
+    rectangle Database Architecure
+}}
+]
+
+rectangle D [
+    4
+{{
+    skinparam Backgroundcolor transparent
+    rectangle Solutions Architecure
+}}
+]
+
+E {
+    rectangle "Thinking about the technology to be used"
+}
+
+
+F{
+    rectangle "Always be informed and updated with the latest tech in the market"
+}
+
+
+G{
+    rectangle "Fiinding the fastest and best technology at each stage"
+}
+
+
+D --> E
+D --> F
+D --> G
+@enduml
