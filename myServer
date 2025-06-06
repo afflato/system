@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="27.1.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Android 15; Mobile; rv:139.0) Gecko/139.0 Firefox/139.0" version="27.1.4" pages="2">
   <diagram id="0RjjA-r8Wi3XxLpcXBeB" name="Server">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="324" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wJVeTKQITJMI-yTVjmmX-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="350" y="170" width="150" height="35" as="geometry" />
+          <mxGeometry x="350" y="160" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;" parent="wJVeTKQITJMI-yTVjmmX-1" vertex="1">
           <mxGeometry width="50" height="35" as="geometry" />
