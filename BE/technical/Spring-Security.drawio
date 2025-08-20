@@ -197,7 +197,7 @@
           <mxGeometry x="381" y="1510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L0lIHW6_7-lsRlVvseEU-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Federated Authentication&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1552" width="210" height="30" as="geometry" />
+          <mxGeometry x="309" y="1540" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SO6boBuOTi9O-m2DSPjr-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="13" y="290" width="825" height="350" as="geometry" />
