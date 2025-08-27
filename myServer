@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wJVeTKQITJMI-yTVjmmX-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="360" y="190" width="150" height="35" as="geometry" />
+          <mxGeometry x="360" y="161" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cwAuwM5yEWmbogQDqaQp-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;" parent="wJVeTKQITJMI-yTVjmmX-1" vertex="1">
           <mxGeometry width="50" height="35" as="geometry" />
