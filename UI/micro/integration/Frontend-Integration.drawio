@@ -1312,7 +1312,7 @@
           <mxGeometry x="30" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-8" value="Why aren&#39;t we doing this?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nre2C91rgxyClXidFmKA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nre2C91rgxyClXidFmKA-10" target="nre2C91rgxyClXidFmKA-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
