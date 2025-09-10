@@ -1755,7 +1755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0X125TnRyuXo6FV3gHdj" name="Cloud">
-    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1865,7 +1865,7 @@
           <mxGeometry x="18" y="524" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luvqYDbV_96sioduSV3P-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CSS Scoping Solutions&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="565" width="170" height="30" as="geometry" />
+          <mxGeometry x="292" y="564" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y1ocDEA_wHaD_1zWYzgF-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Custom CSS you are writing for your project&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="598" width="309" height="30" as="geometry" />
