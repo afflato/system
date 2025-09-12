@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mVsqojiOygB-uuAasu_9" name="Loom">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,7 +623,7 @@
           <mxGeometry x="26.000000000000014" y="350" width="620" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ZXVOVtfLhvjR_lZxAr1r-6" value="&lt;b&gt;Important considerations for Java 24:&lt;br&gt;&lt;/b&gt;Synchronization without pinning:&lt;br&gt;In Java 24, virtual threads no longer get pinned to carrier threads when using synchronized blocks, enhancing concurrency. The JVM parks the virtual thread instead, allowing other tasks to execute.&lt;br&gt;Diagnosability:&lt;br&gt;Thread dumps in Java 24 include the stack trace of the mounted virtual thread, aiding in debugging.&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;html=1;fontSize=16;whiteSpace=wrap;" parent="60hKZgFlfGQaF_-OhBGB-1" vertex="1">
-          <mxGeometry x="21.46" y="730" width="780" height="160" as="geometry" />
+          <mxGeometry x="22.51" y="750" width="780" height="160" as="geometry" />
         </mxCell>
         <mxCell id="60hKZgFlfGQaF_-OhBGB-2" value="" style="group;" parent="60hKZgFlfGQaF_-OhBGB-1" vertex="1" connectable="0">
           <mxGeometry x="450" y="-60" width="375.02" height="90" as="geometry" />
