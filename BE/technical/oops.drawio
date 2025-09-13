@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.1" pages="2">
   <diagram name="OOPS-basics" id="QpAsIc9VxQo2tAjJdrUa">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -614,7 +614,7 @@
           <mxGeometry x="382.95" y="2345" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="60hKZgFlfGQaF_-OhBGB-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24" y="1430" width="825.02" height="890" as="geometry" />
+          <mxGeometry x="10" y="1520" width="825.02" height="890" as="geometry" />
         </mxCell>
         <mxCell id="ZXVOVtfLhvjR_lZxAr1r-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; Runnable task = () -&amp;gt; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; System.out.println(&quot;Running in virtual thread: &quot; + Thread.currentThread());&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; };&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; Thread vThread = Thread.startVirtualThread(task);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; vThread.join();&lt;br&gt;&lt;/font&gt;---------------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; Runnable task = () -&amp;gt; {&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; System.out.println(&quot;Running in virtual thread: &quot; + Thread.currentThread());&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; };&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; Thread vThread = Thread.ofVirtual().name(&quot;my-virtual-thread&quot;).start(task);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; vThread.join();&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="60hKZgFlfGQaF_-OhBGB-1" vertex="1">
           <mxGeometry width="790" height="330" as="geometry" />
@@ -625,17 +625,17 @@
         <mxCell id="ZXVOVtfLhvjR_lZxAr1r-6" value="&lt;b&gt;Important considerations for Java 24:&lt;br&gt;&lt;/b&gt;Synchronization without pinning:&lt;br&gt;In Java 24, virtual threads no longer get pinned to carrier threads when using synchronized blocks, enhancing concurrency. The JVM parks the virtual thread instead, allowing other tasks to execute.&lt;br&gt;Diagnosability:&lt;br&gt;Thread dumps in Java 24 include the stack trace of the mounted virtual thread, aiding in debugging.&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;html=1;fontSize=16;whiteSpace=wrap;" parent="60hKZgFlfGQaF_-OhBGB-1" vertex="1">
           <mxGeometry x="22.51" y="750" width="780" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="60hKZgFlfGQaF_-OhBGB-2" value="" style="group;" parent="60hKZgFlfGQaF_-OhBGB-1" vertex="1" connectable="0">
-          <mxGeometry x="450" y="-60" width="375.02" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXVOVtfLhvjR_lZxAr1r-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;spring.threads.virtual.enabled=true&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="60hKZgFlfGQaF_-OhBGB-2" vertex="1">
-          <mxGeometry x="-6.046358765218947" y="40" width="360" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ZXVOVtfLhvjR_lZxAr1r-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Spring&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="467.95348814814815" y="1370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZXVOVtfLhvjR_lZxAr1r-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Java&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="24" y="1370" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="60hKZgFlfGQaF_-OhBGB-2" value="" style="group;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="474.07" y="1380" width="375.02" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXVOVtfLhvjR_lZxAr1r-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;spring.threads.virtual.enabled=true&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="60hKZgFlfGQaF_-OhBGB-2" vertex="1">
+          <mxGeometry x="-6.046358765218947" y="40" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
