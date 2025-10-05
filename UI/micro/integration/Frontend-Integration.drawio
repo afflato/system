@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.5" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Android 15; Mobile; rv:143.0) Gecko/143.0 Firefox/143.0" version="28.2.5" pages="10">
   <diagram id="HzzkXtRiBOfBRwnQmHLX" name="Server Arch">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="324" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="16" y="36" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="msXrQutdEgU7XMJ9eGrg-3" value="Shopping Cart App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="127" y="131" width="120" height="30" as="geometry" />
+          <mxGeometry x="110" y="131" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="msXrQutdEgU7XMJ9eGrg-4" value="Product Listing App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4" y="130" width="130" height="30" as="geometry" />
@@ -198,10 +198,10 @@
           <mxGeometry x="442.5" y="493" width="140" height="145" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-60" value="Engineering Team #1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="266" y="459" width="140" height="30" as="geometry" />
+          <mxGeometry x="247" y="439" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-61" value="Engineering Team #2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="459" width="140" height="30" as="geometry" />
+          <mxGeometry x="430" y="430" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yO8kdcnrtrjrrBu5rs9_-62" value="Major Categories of&lt;br&gt;&amp;nbsp;Integration" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b46504;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#fad7ac;" parent="1" vertex="1">
           <mxGeometry x="378" y="762" width="130" height="40" as="geometry" />
