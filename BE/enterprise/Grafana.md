@@ -54,11 +54,11 @@ Tooling must be operable both on-premises and in cloud environments (AWS/Azure),
 | Visualization: Logs | To be finalized |
 
 
-Note: Additional technologies for edge devices and infrastructure (e.g., messa
+Note: Additional technologies for edge devices and infrastructure (e.g., messaging systems) will be determined in future releases.
 
 # Observability: Deployment Technologies: VM & Bare Meta
-Observability in VM and Bare Metal environments can be viewed from two distinct perspectives
+Observability in VM and Bare Metal environments can be viewed from two distinct perspectives:
 ## Infrastructure-Level Observability
-This aspect focuses on monitoring the performance and usage of the underlying VM or bare metal machines. It is achieved by deploying agents directly on these machines. These gents collect machine-specific performance metrics such as CPU, memory, disk 1/O, and network usage. The collected data is then forwarded to a centralized Observability Cluster- typically running on OpenShift or EKS -where Prometheus and Jaeger controllers aggregate and visualize the metrics.
+This aspect focuses on monitoring the performance and usage of the underlying VM or bare metal machines. It is achieved by deploying agents directly on these machines. These gents collect machine-specific performance metrics such as CPU, memory, disk 1/O, and network usage. The collected data is then forwarded to a centralized Observability Cluster -- typically running on OpenShift or EKS -- where Prometheus and Jaeger controllers aggregate and visualize the metrics.
 ## Application-Level Observability
 his aspect pertains to the observability of the technologies deployed on the infrastructure, such as Kafka, databases, or microservices. Each technology may require its owr bservability solution, tailored to its architecture and operational characteristics. These solutions typically include exporters, instrumentation libraries, and dashboards that provide insights into application-specific metrics, traces, and logs.
